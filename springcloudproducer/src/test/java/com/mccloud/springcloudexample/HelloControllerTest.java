@@ -1,10 +1,5 @@
 package com.mccloud.springcloudexample;
 
-import java.awt.PageAttributes.MediaType;
-
-import javax.net.ssl.SSLEngineResult.Status;
-import javax.swing.text.AbstractDocument.Content;
-
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
